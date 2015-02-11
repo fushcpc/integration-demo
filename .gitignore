@@ -1,9 +1,9 @@
 *.class
-/target/
-/classes/
-/bin/
-/.settings/
-/.metedata/
+target
+classes
+bin
+.settings
+.metedata
 .project
 
 # Mobile Tools for Java (J2ME)
