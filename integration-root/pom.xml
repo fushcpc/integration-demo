@@ -6,4 +6,8 @@
   <version>1.0-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>integration-root</name>
+  <modules>
+  	<module>../integration-service</module>
+  	<module>../integration-web</module>
+  </modules>
 </project>
