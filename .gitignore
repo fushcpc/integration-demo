@@ -4,6 +4,8 @@ classes
 bin
 .settings
 .metedata
+.project	
+.classpath
 .project
 
 # Mobile Tools for Java (J2ME)
